@@ -23,6 +23,6 @@
 		"RSA"
 	],
 	"dependencies": {
-		"crypto": "*"
+		"crypto-browserify": "^3.11.0"
 	}
 }
